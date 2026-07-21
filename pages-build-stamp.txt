@@ -1,3 +1,4 @@
-Last payout Pages rebuild request: 2026-07-20T10:30:47+07:00
-Source: report_Jai Chan-Siam Discovery_2026-07-01-2026-07-19 (2).xlsx
-Branch source after settings save: gh-pages/root
+Last payout Pages rebuild request: 2026-07-21T10:30:46+07:00
+Source: report_Jai Chan-Siam Discovery_2026-07-01-2026-07-20.xlsx
+Branch source: gh-pages/root
+Main publish commit: 48ef9e420d7e155ff1a41b16aac90c4781c6c050
